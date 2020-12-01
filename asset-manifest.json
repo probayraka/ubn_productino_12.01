@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ubn_productino_12.01/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/ubn_productino_12.01/static/js/main.3d9530ee.chunk.js",
+    "main.js.map": "/ubn_productino_12.01/static/js/main.3d9530ee.chunk.js.map",
+    "runtime-main.js": "/ubn_productino_12.01/static/js/runtime-main.3942dc52.js",
+    "runtime-main.js.map": "/ubn_productino_12.01/static/js/runtime-main.3942dc52.js.map",
+    "static/js/2.53601c60.chunk.js": "/ubn_productino_12.01/static/js/2.53601c60.chunk.js",
+    "static/js/2.53601c60.chunk.js.map": "/ubn_productino_12.01/static/js/2.53601c60.chunk.js.map",
+    "index.html": "/ubn_productino_12.01/index.html",
+    "precache-manifest.4988279660df67d66766ae7edaa0a1f6.js": "/ubn_productino_12.01/precache-manifest.4988279660df67d66766ae7edaa0a1f6.js",
+    "service-worker.js": "/ubn_productino_12.01/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/ubn_productino_12.01/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.53601c60.chunk.js.LICENSE.txt": "/ubn_productino_12.01/static/js/2.53601c60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3942dc52.js",
+    "static/js/2.53601c60.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.3d9530ee.chunk.js"
+  ]
+}
